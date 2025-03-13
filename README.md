@@ -23,5 +23,5 @@ python --version
 If you have a different Mac or a PC, looking up how to run tensorflow on your computer would be necessary before running collaborativerec.py 
 
 
-In this github, I will include my goodreads data, but not my friends'. So, if you want to run this, you only need to provide one more dataset. I will provide the version that already has genre tags. 
+In this repository, I will include my goodreads data, but not my friends'. So, if you want to run this, you only need to provide one more dataset. I will provide the version that already has genre tags. 
 
