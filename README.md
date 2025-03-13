@@ -22,6 +22,8 @@ python --version
 
 If you have a different Mac or a PC, looking up how to run tensorflow on your computer would be necessary before running collaborativerec.py 
 
+Instructions:
+After making sure you have two datasets, and the required software, you will need to replace the filepaths in both python scripts to match the filepaths of your CSV files. Enjoy!
 
 In this repository, I will include my goodreads data, but not my friends'. So, if you want to run this, you only need to provide one more dataset. I will provide the version that already has genre tags. 
 
